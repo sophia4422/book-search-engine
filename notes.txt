@@ -1,0 +1,30 @@
+client & server files
+
+install packages
+
+1. npm run install --- will add node modules
+2. npm run build --- will go into client & build react app
+3. npm i --- add node modules to main repo
+
+change name in package to the name of this repo
+
+4. npm run start:server (seperate terminal)
+5. npm run start:client (seperate terminal)
+
+ADD NEW SCRIPTS IN
+
+On Signup a request is made to api/users
+
+express routers
+/api/users (post request) - pass in {email, password and username}
+
+
+server
+TypeDefs folder
+index.js file
+stop server
+npm i apollo-server graphql
+
+build schema
+import graphql
+signup mutation
