@@ -2,6 +2,14 @@
 
 GraphQL API built with Apollo Server using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API.
 
+## Deployed Application
+
+[See the deployed app here](https://tranquil-mountain-95428.herokuapp.com/)
+
+## Screenshot
+
+![Screenshot](readme/book.png)
+
 ## User Story
 
 ```md
@@ -44,6 +52,6 @@ WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
 ```
 
-## Screenshot
-
 ## Contact
+
+[Linkedin](https://www.linkedin.com/in/sophia-wall/)
